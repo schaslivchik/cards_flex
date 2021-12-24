@@ -125,11 +125,10 @@ main {
   width: 100%;
   text-decoration: none;
   height: 36px;
-  border-radius: 6px;
+  border-radius: 10px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 800;
   transition: 0.2s;
-  font-weight: 700;
   letter-spacing: 0.2px;
 }
 .btn-primary {
